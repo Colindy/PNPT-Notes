@@ -1,1 +1,1 @@
-![Network Ports]("/Pasted image 20240331173458.png")
+![Network Ports](/Pasted image 20240331173458.png)
