@@ -1,6 +1,6 @@
 IP Address - (Layer 2)
 	Private Ranges 
-		![[Pasted image 20240331171529.png]]
+		![IP Address Ranges](Images/20240331171529.png)
 
 MAC Address (Media Access Control) (Layer 3)
 	Hardware address burned into device
