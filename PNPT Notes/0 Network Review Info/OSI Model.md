@@ -1,1 +1,1 @@
-![[Pasted image 20240331190836.png]]
+![OSI Model](Images/20240331190836.png)
