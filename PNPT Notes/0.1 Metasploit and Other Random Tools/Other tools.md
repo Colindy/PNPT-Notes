@@ -1,3 +1,5 @@
+### A couple other tools  
+
 `dnsrecon -r 127.0.0.0/24 -n 10.0.2.154 -d blah`  
 &ensp;	dnsrecon will scan the devices dns (if 53 is open) and return records  
 &ensp;	-r is for range on the device to check  

@@ -1,3 +1,5 @@
+### Common Ports  
+
 IP Address - (Layer 2)  
 &ensp;	Private Ranges  
 &ensp;&ensp;		![IP Address Ranges](Images/20240331171529.png)
