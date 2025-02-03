@@ -16,3 +16,10 @@
 &ensp;&ensp;		This tool should always be run using the GPU for maximum effect, never in a VM if it can be avoided.  
 &ensp;	-O   Will optimize the process of running hashcat  
 &ensp;	-r   Will run rule sets against the list as well.  One Rule to Rule them All is a popular one  
+
+`fcrackzip -v -u -D -p /usr/share/wordlists/rockyou.txt save.zip`  
+&ensp;-v&ensp;&ensp;Verbose  
+&ensp;-u&ensp;&ensp;Unzipping the file  
+&ensp;-D&ensp;&ensp;States we're using a dictionary attack  
+&ensp;-p&ensp;&ensp;specifies the file with the wordlist followed by the worldlist  
+&ensp;`save.zip`&ensp;&ensp;This is the zip file that is password protected.  
