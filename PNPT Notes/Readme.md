@@ -8,4 +8,4 @@ This is in NO WAY meant to be a replacement for either of those courses.  If you
 
 If you are using this to help study, then Cheers and best of luck to you on your pentesting journey!  I know mine has been a blast!
 
-You will ==NOT== find any writeups or technical details of either the PNPT, PWPA, or OSCP exams in this or any of my other repositories.  Save you the time of checking for answers or hints.  :)
+You will **NOT** find any writeups or technical details of either the PNPT, PWPA, or OSCP exams in this or any of my other repositories.  Save you the time of checking for answers or hints.  :)
